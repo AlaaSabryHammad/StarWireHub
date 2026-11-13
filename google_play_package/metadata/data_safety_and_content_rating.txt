@@ -1,0 +1,52 @@
+================================================================================
+إجابات نموذج أمان البيانات والتقييم العمري (Data Safety & Content Rating)
+Google Play Console
+================================================================================
+
+--------------------------------------------------------------------------------
+أولاً: أمان البيانات (Data Safety Questionnaire)
+--------------------------------------------------------------------------------
+
+1. جمع البيانات ومشاركتها (Data Collection & Sharing):
+• Does your app collect or share any of the required user data types?
+  الإجابة: NO (لا يجمع التطبيق ولا يشارك أي بيانات مستخدم إطلاقاً).
+
+2. التشفير أثناء النقل (Encryption):
+• Is all of the user data collected by your app encrypted in transit?
+  الإجابة: YES (جميع الاتصالات بالإنترنت تتم حصراً عبر HTTPS المشفر).
+
+3. طلب حذف الحساب/البيانات (Deletion Request):
+• Do you provide a way for users to request that their data is deleted?
+  الإجابة: Not applicable (لأن التطبيق لا يتطلب حساباً ولا يخزن بيانات على خوادم خارجية).
+
+--------------------------------------------------------------------------------
+ثانياً: استبيان المحتوى والتقييم العمري (Content Rating Questionnaire)
+--------------------------------------------------------------------------------
+
+1. فئة الاستبيان:
+• اختر: Utility, Productivity, Communication, or Other
+
+2. العنف والمواد الحساسة:
+• Does the app contain violent materials? NO
+• Does the app contain sexuality or suggestive themes? NO
+• Does the app contain offensive language? NO
+• Does the app contain controlled substances (drugs/alcohol)? NO
+
+3. الميزات التفاعلية:
+• Can users exchange messages or communicate with other users? NO
+• Does the app share the user's current physical location? NO
+• Does the app allow users to purchase digital goods? NO
+
+النتيجة المتوقعة:
+• تصنيف "Everyone" (مناسب لجميع الأعمار) أو PEGI 3 / ESRB Everyone.
+
+--------------------------------------------------------------------------------
+ثالثاً: أذونات التطبيق الحساسة (App Permissions Declaration)
+--------------------------------------------------------------------------------
+
+1. INTERNET:
+• الغرض: جلب قائمة المستودعات وإحصائيات GitHub الحية وملفات README.md.
+
+2. POST_NOTIFICATIONS (Android 13+):
+• الغرض: إرسال إشعارات ساعية للمستخدم عند اكتشاف مشاريع جديدة أو بدائل حرة صاعدة.
+

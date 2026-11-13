@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - StarWireHub</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      color: #0f172a;
+      background-color: #f8fafc;
+      margin: 0;
+      padding: 40px 20px;
+    }
+    .container {
+      max-width: 780px;
+      margin: 0 auto;
+      background: #ffffff;
+      padding: 40px;
+      border-radius: 16px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+      border: 1px solid #e2e8f0;
+    }
+    h1 { color: #4f46e5; margin-top: 0; font-size: 28px; }
+    h3 { color: #1e293b; border-bottom: 2px solid #f1f5f9; padding-bottom: 8px; margin-top: 28px; }
+    p, li { color: #475569; font-size: 15px; }
+    ul { padding-left: 20px; }
+    .badge {
+      display: inline-block;
+      background: #eef2ff;
+      color: #4f46e5;
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+    a { color: #4f46e5; text-decoration: none; font-weight: 500; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="badge">StarWireHub Official Document</div>
+    <h1>Privacy Policy for StarWireHub</h1>
+    <p><strong>Last updated:</strong> November 13, 2026</p>
+
+    <p>StarWireHub ("we", "our", or "the app") is committed to protecting your privacy. This policy outlines our standards regarding data collection, usage, and safety.</p>
+
+    <h3>1. Information We Do NOT Collect</h3>
+    <p>StarWireHub operates with a zero-tracking, privacy-first architecture:</p>
+    <ul>
+      <li><strong>No Account Required:</strong> You can use all features without creating an account or providing personal details.</li>
+      <li><strong>No Analytics or Trackers:</strong> We do not integrate any third-party tracking, advertising, or profiling SDKs.</li>
+      <li><strong>Zero Advertisements:</strong> The app is completely free from ads and promotional tracking.</li>
+    </ul>
+
+    <h3>2. Data Stored Locally On Your Device</h3>
+    <p>The following non-identifiable user preferences are stored securely on your device using Android's local SharedPreferences:</p>
+    <ul>
+      <li>Saved repository bookmarks.</li>
+      <li>Font family preferences (Cairo, Tajawal, Almarai, or Alexandria).</li>
+      <li>Local repository identifier cache used to recognize newly released open-source projects.</li>
+    </ul>
+
+    <h3>3. Network Communications</h3>
+    <p>All network communications are conducted strictly over encrypted HTTPS with public developer endpoints:</p>
+    <ul>
+      <li><strong>GitHub Public API & CDN:</strong> To retrieve public repository metrics (stars, forks, open issues), descriptions, and Markdown README files. These calls are completely anonymous.</li>
+    </ul>
+
+    <h3>4. Background Sync & Notifications</h3>
+    <p>The optional hourly background service checks public GitHub data locally on your device to trigger notifications for newly trending repositories. No push tokens or identifiers are uploaded to any external server.</p>
+
+    <h3>5. Contact Information</h3>
+    <p>For questions or support, please reach out via:</p>
+    <p>Email: <a href="mailto:support@starwirehub.dev">support@starwirehub.dev</a><br>
+    Repository: <a href="https://github.com/boffti/starwire" target="_blank">github.com/boffti/starwire</a></p>
+  </div>
+</body>
+</html>
+

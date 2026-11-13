@@ -1,0 +1,33 @@
+================================================================================
+تصنيف التطبيق والكلمات المفتاحية (Category & Tags) - Google Play Console
+================================================================================
+
+0. اسم حزمة التطبيق الرسمية (Application ID / Package Name):
+• com.starwirehub.app
+
+1. نوع التطبيق (Application Type):
+• App (تطبيق)
+
+2. الفئة الأساسية (Primary Category):
+• Tools (أدوات) أو Productivity (الإنتاجية) أو Libraries & Demo (مكتبات وعروض تجريبية)
+- الاختيار الموصى به: Tools (أدوات)
+
+3. التصنيفات الإضافية والوسوم (Tags) [اختر حتى 5 وسوم]:
+• Developer Tools (أدوات المطورين)
+• Open Source (مفتوح المصدر)
+• Productivity (الإنتاجية)
+• Software (البرمجيات)
+• Utilities (الأدوات المساعدة)
+
+4. تفاصيل الاتصال بالدعم (Store Listing Contact Details):
+• Email Address: support@starwirehub.dev (أو البريد الإلكتروني الخاص بك)
+• Website: https://github.com/boffti/starwire (أو رابط مستودعك)
+• Privacy Policy URL: (انظر ملف PRIVACY_POLICY.md في هذا المجلد)
+
+5. الفئة العمرية والجمهور المستهدف (Target Audience & Content):
+• Target age group: 13 and older (13 سنة فما فوق - المطورون والطلاب والمهندسون)
+• Appeals to children: No (لا يستهدف الأطفال بشكل خاص)
+
+6. الإعلانات (Ads Declaration):
+• Does your app contain ads? NO (التطبيق خالي تماماً من الإعلانات)
+

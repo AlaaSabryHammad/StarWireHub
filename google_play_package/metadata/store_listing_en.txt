@@ -1,0 +1,60 @@
+================================================================================
+Google Play Store Listing Details - English (Default Locale)
+================================================================================
+
+1. App Name [Max: 30 characters]:
+StarWireHub: GitHub & FOSS Hub
+
+2. Short Description [Max: 80 characters]:
+Discover trending GitHub repositories & open-source alternatives with hourly sync.
+
+3. Full Description [Max: 4000 characters]:
+Welcome to StarWireHub 🚀 — Your smart gateway to discovering trending open-source projects, top GitHub repositories, and reliable free software alternatives (FOSS).
+
+Whether you are a software engineer seeking cutting-edge AI libraries, developer tools, or a privacy enthusiast looking to replace proprietary commercial software with self-hosted alternatives, StarWireHub delivers a seamless, responsive, and richly curated experience.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨ Key Features
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔥 Trending Velocity & Smart Discovery:
+• Track repositories experiencing rapid weekly growth and surges in star counts.
+• Flexible sorting: Weekly Growth Velocity, Most Stars, Most Forks, and Recently Added.
+• Filter by category (AI Agents, Databases, Mobile & Desktop Apps, Security, Dev Tools) and programming languages (Rust, Go, TypeScript, Python, Dart, etc.).
+
+⚡ Open-Source Alternatives (FOSS Library):
+• Curated directory of open-source alternatives to commercial software.
+• Find self-hostable replacements for tools like Notion, Figma, Slack, 1Password, and CleanMyMac.
+• Take control of your data and workflow with verified community projects.
+
+🤖 Intelligent Arabic & English Summaries:
+• Instant conceptual summaries explaining what the project does, why it is surging, and its primary use cases.
+• One-tap bilingual toggle between Arabic explanation and original English metadata.
+
+📊 Real-Time GitHub Integration:
+• Live repository metrics: Real-time stars, forks, open issues, watchers count, primary language, and open-source license.
+• Built-in full Markdown README.md viewer with formatted code blocks, images, and clickable links.
+• One-click terminal clone commands (git clone) and quickstart instructions.
+
+🔔 Hourly Background Sync & Rich Notifications:
+• Background checks every 60 minutes to alert you when exciting new repositories or releases are indexed.
+• Expanded, rich notifications (BigTextStyle) providing full project details, growth rate, and category right in your status bar.
+
+📱 Responsive Tablet & Mobile Design:
+• Clean, modern Light Theme engineered for optimal visual comfort.
+• Adaptive layout: Persistent Arabic/English sidebar navigation and multi-column grid dashboard on tablets (7" & 10"+), fluid bottom navigation on phones.
+• Customizable Arabic typography: Switch between Cairo, Tajawal, Almarai, and Alexandria directly in Settings.
+
+💾 Bookmarks & Offline Cache:
+• Save favorite repositories to your personal bookmarks with local persistence.
+• Browse previously loaded projects even without an active internet connection.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔒 Privacy & Data Safety
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+• 100% Free and completely Ad-Free.
+• No account creation or personal data collection required.
+• All network requests are securely made over HTTPS directly to GitHub's public API and official repositories.
+
+Empower your coding journey and discover the future of open-source with StarWireHub!
+

@@ -1,0 +1,25 @@
+================================================================================
+معلومات توقيع الحزمة الرسمية (Release Keystore Signing Credentials)
+================================================================================
+
+• اسم الحزمة الرسمي (Application ID / Package Name):
+  com.starwirehub.app
+
+تم إنشاء مفتاح التوقيع الرسمي لتطبيق StarWireHub وتطبيقه على حزمة الإنتاج (AAB).
+يرجى الاحتفاظ بهذا الملف ونسخة مفتاح `upload-keystore.jks` في مكان آمن، حيث ستحتاجه في المستقبل عند إرسال أي تحديثات جديدة للتطبيق على Google Play Console.
+
+1. مسار ملف المفتاح:
+• upload-keystore.jks (موجود أيضاً في هذا المجلد وفي android/app/upload-keystore.jks)
+
+2. بيانات الاعتماد (Credentials):
+• Key Alias: starwirehub_upload
+• Keystore Password: starwirehub_pass
+• Key Password: starwirehub_pass
+• Key Algorithm: RSA 2048-bit
+• Certificate Validity: 10,000 Days (حتى عام 2054)
+
+3. توقيع تطبيقات Google Play (Play App Signing):
+• عند رفع حزمة `app-release.aab` للمرة الأولى، سيطلب منك Google Play Console تفعيل "Google Play App Signing".
+• اضغط "Use Google-generated key" أو استمر باستخدام مفتاح الرفع (Upload Key) المضمن.
+• يقبل Google Play هذا المفتاح كمفتاح رفع رسمي معتمد.
+
