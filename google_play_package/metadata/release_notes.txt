@@ -1,0 +1,51 @@
+================================================================================
+ملاحظات الإصدار لمتجر جوجل بلاي (Google Play Release Notes)
+الإصدار: 1.0.0 (Version Code: 1)
+================================================================================
+
+الصيغة المجمعة المعتمدة لـ Google Play Console (انسخ والصق مباشرة):
+
+<ar-SA>
+🎉 الإطلاق الرسمي الأول لتطبيق StarWireHub (الإصدار 1.0.0):
+• استكشاف أحدث مستودعات GitHub الرائجة والبدائل مفتوحة المصدر (FOSS).
+• ملخصات ذكية باللغة العربية لكل مشروع مع إحصائيات GitHub الحية وتفاصيل الرخص.
+• قارئ مدمج لملفات README بالماركداون وأوامر استنساخ سريعة (git clone).
+• نظام مزامنة دورية ساعية مع إشعارات تفصيلية فخمة لأحدث المشاريع الصاعدة.
+• تصميم متجاوب فائق الأناقة يدعم الهواتف والأجهزة اللوحية (التابلت).
+• دعم خط كايرو (Cairo) العصري مع إمكانية التبديل بين 4 خطوط عربية مميزة.
+• تصفح وحفظ المشاريع في المفضلة للعمل دون اتصال بالإنترنت.
+</ar-SA>
+<en-US>
+🎉 Welcome to the initial release of StarWireHub (v1.0.0)!
+• Discover trending GitHub repositories and open-source (FOSS) alternatives.
+• AI-powered Arabic summaries and live GitHub metrics (stars, forks, issues).
+• Built-in Markdown README viewer and one-click clone commands.
+• Hourly background synchronization with rich, detailed notifications.
+• Fully responsive modern Light Theme for smartphones and tablets.
+• Sleek Arabic typography powered by Cairo, with in-app font customization.
+• Bookmark repositories for fast offline access.
+</en-US>
+
+--------------------------------------------------------------------------------
+إذا كنت تُدخل الملاحظات يدوياً لكل لغة على حدة:
+--------------------------------------------------------------------------------
+
+📌 بالعربية (ar-SA):
+🎉 الإطلاق الرسمي الأول لتطبيق StarWireHub (الإصدار 1.0.0):
+• استكشاف أحدث مستودعات GitHub الرائجة والبدائل مفتوحة المصدر (FOSS).
+• ملخصات ذكية باللغة العربية لكل مشروع مع إحصائيات GitHub الحية وتفاصيل الرخص.
+• قارئ مدمج لملفات README بالماركداون وأوامر استنساخ سريعة (git clone).
+• نظام مزامنة دورية ساعية مع إشعارات تفصيلية فخمة لأحدث المشاريع الصاعدة.
+• تصميم متجاوب فائق الأناقة يدعم الهواتف والأجهزة اللوحية (التابلت).
+• دعم خط كايرو (Cairo) العصري مع إمكانية التبديل بين 4 خطوط عربية مميزة.
+• تصفح وحفظ المشاريع في المفضلة للعمل دون اتصال بالإنترنت.
+
+📌 بالإنجليزية (en-US):
+🎉 Welcome to the initial release of StarWireHub (v1.0.0)!
+• Discover trending GitHub repositories and open-source (FOSS) alternatives.
+• AI-powered Arabic summaries and live GitHub metrics (stars, forks, issues).
+• Built-in Markdown README viewer and one-click clone commands.
+• Hourly background synchronization with rich, detailed notifications.
+• Fully responsive modern Light Theme for smartphones and tablets.
+• Sleek Arabic typography powered by Cairo, with in-app font customization.
+• Bookmark repositories for fast offline access.
